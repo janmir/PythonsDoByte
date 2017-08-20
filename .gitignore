@@ -2,3 +2,7 @@
 virtual/
 
 \.vscode/settings\.json
+
+\.cache/
+
+__pycache__/
